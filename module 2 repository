@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Module 1</title>
+</head>
+<body align="center">
+	<style>
+		
+h1{
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.div1{
+    width: 380px;
+     height: 150px;  
+     padding: 0px;
+     border: 2px solid black;
+    background-color:  gray;
+    margin-left: 36%;
+}
+.a{ 
+	background-color: pink;
+	float: right;
+	text-align: center;
+	border: 2px solid black;
+	width: 90px;
+}
+.div2{
+    width: 380px;
+     height: 150px;  
+     padding: 0px;
+     border: 2px solid black;
+    background-color:  gray;
+    margin-left: 36%;
+}
+.b{ 
+	background-color: red;
+	float: right;
+	text-align: center;
+	border: 2px solid black;
+	width: 90px;
+	color: white;
+}
+.div3{
+    width: 380px;
+     height: 150px;  
+     padding: 0px;
+     border: 2px solid black;
+    background-color:  gray;
+    margin-left: 36%;
+}
+.c{ 
+	background-color:  yellow;
+	float: right;
+	text-align: center;
+	border: 2px solid black;
+	width: 90px;
+}
+
+body{
+background-size: cover;
+
+
+}
+	</style>
+
+    <h1> Our Menu </h1>
+    <div class="div1">
+    	<div class="a"><b>Chicken</b></div>
+    		<br><br>lorem ipsum dolor sit amet, consectetur<br> adipisicing elit, sed do eiusmod
+    tempor incididunt<br> ut labore et dolore magna aliqua. Ut enim ad<br> minim veniam,
+    quis nostrud exercitation ullamco<br> laboris nisi ut aliquip ex ea commodo
+    consequat.</div>
+<br>
+
+
+<div class="div2">
+    	<div class="b"><b>Beef</b></div>
+    		<br><br>lorem ipsum dolor sit amet, consectetur <br>adipisicing elit, sed do eiusmod
+    tempor incididunt<br> ut labore et dolore magna aliqua. Ut enim ad<br> minim veniam,
+    quis nostrud exercitation ullamco<br> laboris nisi ut aliquip ex ea commodo
+       	   consequat.</div>
+    <br>
+    <div class="div3">
+    	<div class="c"><b>Sushi</b></div>
+    		<br><br>lorem ipsum dolor sit amet, consectetur<br> adipisicing elit, sed do eiusmod
+    tempor incididunt<br> ut labore et dolore magna aliqua. Ut enim ad<br> minim veniam,
+    quis nostrud exercitation ullamco<br> laboris nisi ut aliquip ex ea commodo
+    consequat.</div>
+    </div>
+
+	
+
+</body>
+</html>
